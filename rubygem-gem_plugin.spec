@@ -59,3 +59,10 @@ rm -rf %{buildroot}
 %doc %{ruby_gemdir}/gems/%{oname}-%{version}/resources/README
 %doc %{ruby_gemdir}/gems/%{oname}-%{version}/resources/Rakefile
 %doc %{ruby_gemdir}/gems/%{oname}-%{version}/%{oname}.gemspec
+
+
+%changelog
+* Mon Dec 20 2010 Rémy Clouard <shikamaru@mandriva.org> 0.2.3-1mdv2011.0
++ Revision: 623491
+- import rubygem-gem_plugin
+
