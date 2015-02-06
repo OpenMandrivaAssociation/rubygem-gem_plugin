@@ -2,7 +2,7 @@
 
 Name:       rubygem-%{oname}
 Version:    0.2.3
-Release:    %mkrel 1
+Release:    2
 Summary:    A plugin system based on rubygems that uses dependencies only
 Group:      Development/Ruby
 License:    GPLv2+
