@@ -6,7 +6,7 @@ Release:    2
 Summary:    A plugin system based on rubygems that uses dependencies only
 Group:      Development/Ruby
 License:    GPLv2+
-URL:        http://rubydoc.info/gems/%{oname}/%{version}/frames
+URL:        https://rubydoc.info/gems/%{oname}/%{version}/frames
 Source0:    http://rubygems.org/gems/%{oname}-%{version}.gem
 BuildRoot:  %{_tmppath}/%{name}-%{version}-%{release}-root
 Requires:   rubygems
